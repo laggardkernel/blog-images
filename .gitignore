@@ -181,3 +181,6 @@ GitHub.sublime-settings
 # Ignore all local history of files
 .history
 
+### Custom ###
+# direnv
+.envrc
